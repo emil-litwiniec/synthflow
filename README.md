@@ -4,7 +4,7 @@ A Web Audio experiment.
 It's a creative synth with mesmerizing 3D visualisation.
 Built with React, [Tone.js](https://tonejs.github.io/) and [Three.js](https://threejs.org/)
 
-#### [ Play with it!](synthflow.netlify.app)
+#### [ Play with it!](https://synthflow.netlify.app)
 
 ## Synth
 SynthFlow is a custom-built synthesiser composed of the modules exposed by Tone.js.\
